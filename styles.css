@@ -1,0 +1,16 @@
+body {
+  background-color: rgba(223, 199, 189, 0.63);
+  padding-left: 5%;
+}
+p {
+  background-color: rgb(192, 177, 170);
+}
+h1 {
+  background-color: rgb(212, 181, 170);
+}
+table,
+tr,
+th {
+  padding: 1px;
+  border-spacing: 10px;
+}
